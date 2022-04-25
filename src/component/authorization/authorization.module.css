@@ -1,0 +1,30 @@
+.authorization{
+  width: 100vw;
+  display: grid;
+  place-items: center;
+}
+
+.container{
+  width: 500px;
+}
+
+.group{
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  width: 180px;
+  height: 50px;
+  background-color:#F2F2F2;
+  color: black;
+  padding-left: 20px;
+  outline: none;
+}
+
+.permissons{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+
+}
+
+label{
+  font-size: 22px;
+}

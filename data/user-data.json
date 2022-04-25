@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "userId": "6ddca37b-8f02-43de-9ea1-81837c743026",
+      "firstName": "John",
+      "lastName": "Appleseed",
+      "userGroup": "Operator",
+      "userAuthorizations": [
+        {
+          "authorizationKey": "jumping",
+          "granted": true
+        },
+        {
+          "authorizationKey": "standing",
+          "granted": false
+        },
+        {
+          "authorizationKey": "sitting",
+          "granted": true
+        },
+        {
+          "authorizationKey": "running",
+          "granted": true
+        }
+      ],
+      "id": "6ddca37b-8f02-43de-9ea1-81837c743026",
+      "Service": ""
+    },
+    {
+      "userId": "cc07b3c3-3e8a-49dc-aad9-e7af72b55002",
+      "firstName": "Janet",
+      "lastName": "Williams",
+      "userGroup": "Service",
+      "userAuthorizations": [
+        {
+          "authorizationKey": "jumping",
+          "granted": true
+        },
+        {
+          "authorizationKey": "standing",
+          "granted": true
+        },
+        {
+          "authorizationKey": "sitting",
+          "granted": true
+        },
+        {
+          "authorizationKey": "running",
+          "granted": false
+        }
+      ],
+      "id": "cc07b3c3-3e8a-49dc-aad9-e7af72b55002"
+    },
+    {
+      "userId": "295cf17a-f2ec-4e6b-a487-772fe8ec30b1",
+      "firstName": "Bhaskar ",
+      "lastName": "Das",
+      "userGroup": "Operator",
+      "userAuthorizations": [
+        {
+          "authorizationKey": "jumping",
+          "granted": false
+        },
+        {
+          "authorizationKey": "standing",
+          "granted": false
+        },
+        {
+          "authorizationKey": "sitting",
+          "granted": true
+        },
+        {
+          "authorizationKey": "running",
+          "granted": false
+        }
+      ],
+      "id": "4747d3c2-4284-4f40-b844-6dbf91526005"
+    }
+  ]
+}
